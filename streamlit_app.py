@@ -19,7 +19,7 @@ Two (or more) newline characters in a row will result in a hard return.
 st.markdown(multi)
 
 
-st.title("🧮 Kalkulator Sederhana")
+st.title("AYO BERHITUNG GOBLOK")
 
 # Input angka
 angka1 = st.number_input("Masukkan angka pertama", value=0.0)
